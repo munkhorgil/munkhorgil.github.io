@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/munkhorgil.github.io/static/css/main.bed489ab.chunk.css",
+    "main.js": "/munkhorgil.github.io/static/js/main.44d40ea0.chunk.js",
+    "main.js.map": "/munkhorgil.github.io/static/js/main.44d40ea0.chunk.js.map",
+    "runtime-main.js": "/munkhorgil.github.io/static/js/runtime-main.179fba00.js",
+    "runtime-main.js.map": "/munkhorgil.github.io/static/js/runtime-main.179fba00.js.map",
+    "static/css/2.11829350.chunk.css": "/munkhorgil.github.io/static/css/2.11829350.chunk.css",
+    "static/js/2.3342271c.chunk.js": "/munkhorgil.github.io/static/js/2.3342271c.chunk.js",
+    "static/js/2.3342271c.chunk.js.map": "/munkhorgil.github.io/static/js/2.3342271c.chunk.js.map",
+    "index.html": "/munkhorgil.github.io/index.html",
+    "precache-manifest.aa77d0baab9310092403495ee2ff6819.js": "/munkhorgil.github.io/precache-manifest.aa77d0baab9310092403495ee2ff6819.js",
+    "service-worker.js": "/munkhorgil.github.io/service-worker.js",
+    "static/css/2.11829350.chunk.css.map": "/munkhorgil.github.io/static/css/2.11829350.chunk.css.map",
+    "static/css/main.bed489ab.chunk.css.map": "/munkhorgil.github.io/static/css/main.bed489ab.chunk.css.map",
+    "static/js/2.3342271c.chunk.js.LICENSE.txt": "/munkhorgil.github.io/static/js/2.3342271c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.179fba00.js",
+    "static/css/2.11829350.chunk.css",
+    "static/js/2.3342271c.chunk.js",
+    "static/css/main.bed489ab.chunk.css",
+    "static/js/main.44d40ea0.chunk.js"
+  ]
+}
