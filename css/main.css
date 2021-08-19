@@ -55,13 +55,13 @@ body {
 }
 
 li {
-  font-size: 1.8em;
+  font-size: 2em;
   list-style: none;
   font-weight: 800;
 }
 
 p {
-  font-size: 1em;
+  font-size: 1.2em;
   list-style: none;
   font-weight: 600;
 }
@@ -74,4 +74,35 @@ a:visited {
   text-align: center;
   text-decoration: none;
   display: inline-block;
+}
+
+.social {
+  display: none;
+}
+
+@media only screen and (max-width: 800px) {
+  .social { display: inherit; }
+  .contact { display: none; }
+  li { font-size: 2.2em; }
+  p { font-size: 1.6em; }
+}
+
+.social {
+  font-size: 2em;
+}
+.social a {
+  margin-right: 12px;
+}
+.social a:link,
+.social a:visited {
+  color: black !important;
+}
+.social a:hover {
+  color: #2b36f4 !important;
+  transition: color 0.5s ease;
+}
+
+
+::selection {
+  background: #b1ff9b;
 }
